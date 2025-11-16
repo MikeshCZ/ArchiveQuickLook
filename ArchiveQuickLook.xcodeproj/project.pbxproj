@@ -41,6 +41,8 @@
 		086F30C92ECA16DA00B40FA0 /* ArchivePreview.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = ArchivePreview.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		086F30CB2ECA16DB00B40FA0 /* Quartz.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Quartz.framework; path = System/Library/Frameworks/Quartz.framework; sourceTree = SDKROOT; };
 		088A8FB22ECA161800C74F12 /* ArchiveQuickLook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ArchiveQuickLook.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		08D253B72ECA55F2000CDCFF /* ArchiveQuickLook.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = ArchiveQuickLook.icns; sourceTree = "<group>"; };
+		08D253B82ECA55F2000CDCFF /* build_dmg.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = build_dmg.sh; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -109,6 +111,7 @@
 		088A8FA92ECA161800C74F12 = {
 			isa = PBXGroup;
 			children = (
+				08D253B92ECA55F2000CDCFF /* build_dmg */,
 				0868255D2ECA263B0055E76B /* README.md */,
 				0868255E2ECA26490055E76B /* LICENSE */,
 				088A8FB42ECA161800C74F12 /* ArchiveQuickLook */,
@@ -125,6 +128,15 @@
 				086F30C92ECA16DA00B40FA0 /* ArchivePreview.appex */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		08D253B92ECA55F2000CDCFF /* build_dmg */ = {
+			isa = PBXGroup;
+			children = (
+				08D253B72ECA55F2000CDCFF /* ArchiveQuickLook.icns */,
+				08D253B82ECA55F2000CDCFF /* build_dmg.sh */,
+			);
+			path = build_dmg;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
