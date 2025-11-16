@@ -8,6 +8,8 @@ A macOS QuickLook extension that enables quick preview of archive file contents 
 
 ArchiveQuickLook adds native QuickLook support for compressed archive files on macOS. When you press the Space bar on an archive file in Finder, you can instantly see the list of files contained within, including their sizes, compressed sizes, and modification dates—all without extracting the archive.
 
+![Screenshot](screenshot.png)
+
 ## Supported Formats
 
 - **ZIP** (`.zip`)
@@ -25,7 +27,7 @@ ArchiveQuickLook adds native QuickLook support for compressed archive files on m
 
 ## Installation
 
-1. Download and install ArchiveQuickLook.app
+1. Download and drag&drop ArchiveQuickLook.app to Applications folder
 2. Open the application at least once to activate the QuickLook extension
 3. The extension is now active system-wide
 4. In Finder, select any supported archive file and press Space to preview
