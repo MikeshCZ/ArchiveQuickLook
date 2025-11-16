@@ -1,0 +1,224 @@
+{
+  "sourceLanguage" : "cs",
+  "strings" : {
+    "" : {
+      "shouldTranslate" : false
+    },
+    "column.compressedSize" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Komprimováno"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compressed"
+          }
+        }
+      }
+    },
+    "column.modificationDate" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Datum úpravy"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modified Date"
+          }
+        }
+      }
+    },
+    "column.name" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Název"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Name"
+          }
+        }
+      }
+    },
+    "column.size" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Velikost"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Size"
+          }
+        }
+      }
+    },
+    "error.cannotOpenZip" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nelze otevřít ZIP archiv"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cannot open ZIP archive"
+          }
+        }
+      }
+    },
+    "error.invalidGzip" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neplatný GZIP formát"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Invalid GZIP format"
+          }
+        }
+      }
+    },
+    "error.unsupportedFormat" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nepodporovaný formát archivu"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unsupported archive format"
+          }
+        }
+      }
+    },
+    "GZIP (.gz)" : {
+      "shouldTranslate" : false
+    },
+    "TAR (.tar, .tar.gz, .tgz, .tar.xz, .txz)" : {
+      "shouldTranslate" : false
+    },
+    "text.active" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plugin je nyní aktivní!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The plugin is now active!"
+          }
+        }
+      }
+    },
+    "text.archive" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Archive Quick Look"
+          }
+        }
+      },
+      "shouldTranslate" : false
+    },
+    "text.formats" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Podporované formáty:"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Supported formats:"
+          }
+        }
+      }
+    },
+    "text.headline" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "QuickLook plugin pro zobrazování obsahu archivů"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "QuickLook plugin for displaying archive contents"
+          }
+        }
+      }
+    },
+    "text.installed" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "QuickLook plugin je nainstalován. Tuto aplikaci můžete zavřít."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The QuickLook plugin is installed. You can close this application."
+          }
+        }
+      }
+    },
+    "text.instructions" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ve Finderu vyberte archivní soubor a stiskněte mezerník pro QuickLook náhled."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In Finder, select the archive file and press the space bar for a QuickLook preview."
+          }
+        }
+      }
+    },
+    "XZ (.xz)" : {
+      "shouldTranslate" : false
+    },
+    "ZIP (.zip)" : {
+      "shouldTranslate" : false
+    }
+  },
+  "version" : "1.1"
+}
